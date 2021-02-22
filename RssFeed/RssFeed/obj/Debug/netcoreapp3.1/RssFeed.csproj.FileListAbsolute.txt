@@ -1,0 +1,13 @@
+C:\Users\ChristKaya\source\repos\RssFeed\RssFeed\RssFeed\bin\Debug\netcoreapp3.1\RssFeed.exe
+C:\Users\ChristKaya\source\repos\RssFeed\RssFeed\RssFeed\bin\Debug\netcoreapp3.1\RssFeed.deps.json
+C:\Users\ChristKaya\source\repos\RssFeed\RssFeed\RssFeed\bin\Debug\netcoreapp3.1\RssFeed.runtimeconfig.json
+C:\Users\ChristKaya\source\repos\RssFeed\RssFeed\RssFeed\bin\Debug\netcoreapp3.1\RssFeed.runtimeconfig.dev.json
+C:\Users\ChristKaya\source\repos\RssFeed\RssFeed\RssFeed\bin\Debug\netcoreapp3.1\RssFeed.dll
+C:\Users\ChristKaya\source\repos\RssFeed\RssFeed\RssFeed\bin\Debug\netcoreapp3.1\RssFeed.pdb
+C:\Users\ChristKaya\source\repos\RssFeed\RssFeed\RssFeed\obj\Debug\netcoreapp3.1\RssFeed.csprojAssemblyReference.cache
+C:\Users\ChristKaya\source\repos\RssFeed\RssFeed\RssFeed\obj\Debug\netcoreapp3.1\RssFeed.AssemblyInfoInputs.cache
+C:\Users\ChristKaya\source\repos\RssFeed\RssFeed\RssFeed\obj\Debug\netcoreapp3.1\RssFeed.AssemblyInfo.cs
+C:\Users\ChristKaya\source\repos\RssFeed\RssFeed\RssFeed\obj\Debug\netcoreapp3.1\RssFeed.csproj.CoreCompileInputs.cache
+C:\Users\ChristKaya\source\repos\RssFeed\RssFeed\RssFeed\obj\Debug\netcoreapp3.1\RssFeed.dll
+C:\Users\ChristKaya\source\repos\RssFeed\RssFeed\RssFeed\obj\Debug\netcoreapp3.1\RssFeed.pdb
+C:\Users\ChristKaya\source\repos\RssFeed\RssFeed\RssFeed\obj\Debug\netcoreapp3.1\RssFeed.genruntimeconfig.cache
