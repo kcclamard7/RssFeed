@@ -4,7 +4,7 @@ using System.Text;
 
 namespace RssFeed.Models
 {
-    internal class RSSFeed
+    public class RSSFeed
     {
         public int FeedId { get; set; }
         public string FeedName { get; set; }
